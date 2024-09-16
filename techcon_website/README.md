@@ -1,1 +1,1 @@
-THIS IS README FOR techcon_website about register.html
+THIS IS README FOR techcon_website about contact.html 
